@@ -1,0 +1,14 @@
+{
+  "name": "nodeevent",
+  "version": "0.0.0",
+  "description": "nodeevent",
+  "main": "app.js",
+  "author": {
+    "name": "Josh",
+    "email": ""
+  },
+  "dependencies": {
+    "sleep": "~1.2.0",
+    "random-js": "~1.0.4"
+  }
+}
